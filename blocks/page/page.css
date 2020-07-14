@@ -1,5 +1,6 @@
 @import url(./__header/page__header.css);
 @import url(./__intro/page__intro.css);
+@import url(./__photo-grid/page__photo-grid.css);
 
 .page {
   background: #2A2C2F;
