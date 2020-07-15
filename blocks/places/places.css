@@ -1,0 +1,10 @@
+@import url(./__place/places__place.css);
+
+.places__place {
+  margin-bottom: 80px;
+}
+
+.places__place:last-of-type {
+  margin-bottom: 92px;
+}
+

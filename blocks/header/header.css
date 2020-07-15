@@ -6,4 +6,6 @@
 .header {
   display: flex;
   justify-content: space-between;
+  padding-top: 28px;
+  max-width: 1184px;
 }
