@@ -11,7 +11,7 @@
 @import url(../blocks/footer/footer.css);
 
 
-* {
+/** {
   border: 1px solid grey;
-}
+}*/
 

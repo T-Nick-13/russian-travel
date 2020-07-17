@@ -5,7 +5,8 @@
 
 .cover {
   background-image: url(../../images/__background.jpg);
-  max-height: 740px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: auto;
   max-width: 1184px;
-
 }
