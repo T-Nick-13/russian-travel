@@ -6,3 +6,9 @@
 .intro {
   max-width: 984px;
 }
+
+@media (max-width: 767px) {
+  .intro  {
+    max-width: 288px;
+  }
+}

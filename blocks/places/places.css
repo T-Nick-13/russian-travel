@@ -5,6 +5,18 @@
 }
 
 .places__place:last-of-type {
-  margin-bottom: 92px;
+  margin-bottom: 0;
+}
+
+@media (max-width: 1023px) {
+  .places__place {
+    margin-bottom: 72px;
+  }
+}
+
+@media (max-width: 767px) {
+  .places__place {
+    margin-bottom: 48px;
+  }
 }
 

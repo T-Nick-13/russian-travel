@@ -2,4 +2,13 @@
   display: flex;
   list-style-type: none;
   padding-left: 0;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+@media (max-width: 767px) {
+  .footer__links {
+    flex-direction: column;
+    margin-left: 16px;
+  }
 }

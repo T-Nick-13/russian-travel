@@ -1,3 +1,9 @@
 .place__text {
-  max-width: 484px;
+  width: 288px;
+}
+
+@media (max-width: 767px) {
+  .place__text {
+    margin-left: 16px;
+  }
 }
