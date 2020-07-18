@@ -2,9 +2,9 @@
   margin: 0;
   font-size: 18px;
   line-height: 1.67;
-  max-width: 484px;
 }
 
-.place__paragraph:first-child {
+.place__paragraph:first-of-type {
   margin-bottom: 24px;
+  margin-left: 0;
 }

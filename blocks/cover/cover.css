@@ -4,9 +4,7 @@
 @import url(./__title/cover__title.css);
 
 .cover {
-  background-image: url(../../images/__background.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  min-height: auto;
   max-width: 1184px;
-}
+  min-height: 740px;
+  background-image: url(../../images/__background.jpg);
+ }
