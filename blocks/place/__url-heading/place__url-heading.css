@@ -6,6 +6,7 @@
   letter-spacing: 0.2em;
   color: #AAAAAA;
   margin: 0 auto 12px;
+  text-transform: uppercase;
 }
 
 @media (max-width: 767px) {

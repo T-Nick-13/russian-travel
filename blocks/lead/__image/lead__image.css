@@ -6,9 +6,14 @@
     display: block;
 }
 
+.figure {
+    display: inline;
+    margin: auto;
+}
+
 @media (max-width: 1279px) {
     .lead__image {
-        width:928px;
+        width:90.625%;
     }
 }
 

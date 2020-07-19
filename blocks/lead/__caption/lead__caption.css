@@ -6,3 +6,22 @@
   letter-spacing: 0.15em;
   text-transform: uppercase;
 }
+@media (max-width: 1279px) {
+  .lead__caption {
+    width: 90.625%;
+  }
+}
+
+@media (max-width: 1023px) {
+  .lead__caption {
+    width: 96.875%;
+    margin-right: 0;
+    margin-left: 24px;
+  }
+}
+
+@media (max-width: 767px) {
+  .lead__caption {
+    margin-left: 16px;
+  }
+}

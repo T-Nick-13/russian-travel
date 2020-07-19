@@ -5,9 +5,3 @@
   line-height: 1.62;
   max-width: 690px;
 }
-
-@media (max-width: 767px) {
-  .intro__text  {
-    width: 288px;
-  }
-}

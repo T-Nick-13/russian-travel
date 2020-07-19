@@ -1,6 +1,7 @@
 @import url(./__lang-link/header__lang-link.css);
 @import url(./__logo/header__logo.css);
 @import url(./__languages/header__languages.css);
+@import url(./__lang-link/_active/header__lang-link_active.css);
 
 
 .header {
@@ -12,19 +13,22 @@
 
 @media (max-width: 1279px) {
   .header {
-    max-width: 928px;
+    /*max-width: 928px;*/
+    width: 90.625%;
   }
 }
 @media (max-width: 1023px) {
   .header {
-    max-width: 720px;
+    /*max-width: 720px;*/
+    width: 93.75%;
   }
 }
 
 @media (max-width: 767px) {
   .header {
     padding-top: 16px;
-    max-width: 288px;
+    /*max-width: 288px;*/
+    width: 90%;
   }
 }
 
